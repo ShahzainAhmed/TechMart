@@ -1,4 +1,4 @@
 # TechMart
 My first professional smartphone site.
 
-Published at: shahzainahmed.github.io/TechMart
+Published at: www.shahzainahmed.github.io/TechMart
