@@ -1,0 +1,72 @@
+
+body{
+    overflow-x: hidden;
+}
+.nav-background{
+    background-color:black    !important;
+}
+.nav-background .nav-link{
+    color: white !important;
+    font-weight: bold;
+    transition: all ease-in 0.4s;
+   
+}
+.nav-background .nav-link:hover{
+    background-color: white !important;
+    border-radius: 25%;
+    color: black !important;
+}
+
+.service img{
+    width:200px;
+}
+.foteer{
+   margin-top: -50px;
+    padding-top: 20px; 
+    /* background-color: #90A4AE; */
+    background-color: #424242;
+    color: white;
+}
+.foteer-dark{
+    background-color: #212121;
+    padding:15px 0px;
+    color: white;
+}
+#feature-produtcs{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.product{
+    margin-top: 30px;
+}
+.products {
+    margin-top:40px;
+    margin-bottom: 80px;
+}
+.order-from{
+    margin-top:40px;
+    margin-bottom: 80px;
+    background-color:#ffff
+    ;
+}
+.thankyou{
+    margin-top:40px;
+
+    height: 64vh;
+}
+
+.carousel-caption{
+    color: white !important;
+}
+
+/* Customer Feedback Background Color */
+.mt-4{
+    background-color: #EEEEEE; 
+    
+}
+
+.feedback-text{
+    color: black
+    ;
+}
+
